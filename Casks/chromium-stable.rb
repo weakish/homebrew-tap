@@ -1,4 +1,4 @@
-cask "chromium" do
+cask "chromium-stable" do
   arch intel: "Mac"
 
   version "120.0.6099.199"
