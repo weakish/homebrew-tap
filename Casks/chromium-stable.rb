@@ -2,7 +2,7 @@ cask "chromium-stable" do
   arch intel: "Mac"
 
   version "120.0.6099.199"
-  sha256 :no_check
+  sha256 "b84f179badf1dd109ce2d441cc45fd664c3d6de78e2cc5701fea55769d6cafb6"
 
   url "https://download-chromium.appspot.com/dl/#{arch}?type=snapshots",
       verified: "download-chromium.appspot.com/dl/"
