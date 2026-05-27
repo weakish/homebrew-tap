@@ -10,8 +10,8 @@ cask "garmin-express-software" do
     end
   end
   on_big_sur :or_newer do
-    version "7.25.0"
-    sha256 "f5737b4d08973632f5bd837cfb91238bf0f4c6fcb1ba6ab340fcb8912b74ef31"
+    version "7.28.0"
+    sha256 "b788d7f7fc5073ffa311e2fac1211e99a8e070224baa7974231d042c04600586"
 
     url "https://download.garmin.com/omt/express/GarminExpress.dmg"
 
