@@ -1,6 +1,6 @@
 cask "backblaze-installer" do
-  version "9.2.1.860"
-  sha256 "e95eb0133a796b3696ab958b1061296d4929d9f2946dc88789957a5d773a9d0e"
+  version "10.0.1.1038"
+  sha256 "1d0a05838cb7bf3eaa4bb2d16897b5c6b6d11ff34d5dd0719c3b52d713017f8a"
 
   url "https://secure.backblaze.com/mac/install_backblaze.dmg"
   name "Backblaze"
